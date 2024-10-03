@@ -1,3 +1,43 @@
+body{
+    display:flex;
+    flex-direction: column;
+
+    gap:2rem;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+/*Styling of Card*/
+.card{
+    display:flex;
+    flex-direction: column;
+
+    gap:2rem;
+
+    justify-content: flex-start;
+    
+}
+
+
+div{
+    background-color: aqua;
+
+    display:flex;
+    flex-direction: column;
+
+    gap:1rem;
+
+ 
+}
+
+
+
+
+
+
 /*CSS Reset*/
 
 /*
